@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+body {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.navbar-brand-centered {
+    position: absolute;
+    top:20%;
+    left: 50%;
+    display: block;
+    width: 160px;
+    text-align: center;
+
+}
+    
+.navbar>.container .navbar-brand-centered,
+.navbar>.container-fluid .navbar-brand-centered {
+    margin-left: -80px;
+}
