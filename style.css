@@ -20,7 +20,12 @@ body {
 }
 
 .profile{
+    padding-top: 2rem;
     left: 50%;
     text-align: center;
     font-size: xx-large;
+}
+
+.profession{
+    color: #8DA4BE;
 }
