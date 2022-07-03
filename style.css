@@ -18,3 +18,9 @@ body {
 .navbar>.container-fluid .navbar-brand-centered {
     margin-left: -80px;
 }
+
+.profile{
+    left: 50%;
+    text-align: center;
+    font-size: xx-large;
+}
