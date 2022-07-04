@@ -38,6 +38,14 @@ body {
     background-color: #8DA4BE;
     overflow: hidden;
     align-items: center;
+    display: flex;
+}
+.shape1 {
+    width: 220px;
+    height: 370px;
+    border-radius: 85% 85% 85% 85% / 55% 55% 55% 55%;
+    background-color: #FFF1E6;
+    align-items: center;
     text-align: center;
     justify-content: center;
     display: flex;
