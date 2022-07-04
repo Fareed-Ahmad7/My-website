@@ -40,6 +40,7 @@ body {
     align-items: center;
     display: flex;
 }
+
 .shape1 {
     width: 220px;
     height: 370px;
@@ -49,4 +50,41 @@ body {
     text-align: center;
     justify-content: center;
     display: flex;
+}
+
+.TITLE{
+    padding-left: 1.5rem;
+    padding-bottom: .5rem;
+    color: #8DA4BE;
+    font-weight: bold;
+}
+
+.DESC{
+    padding-top: .5rem;
+    padding-left: 1.5rem;
+    padding-bottom: 2rem;
+    color: #000000;
+}
+
+.column1{
+    text-align: center;
+    justify-content: center;
+}
+
+.column3{
+    padding-right: 5%;
+    text-align: end;
+    justify-content: center;
+}
+
+.title{
+    padding-bottom: .5rem;
+    color: #8DA4BE;
+    font-weight: bold;
+}
+
+.desc{
+    font-weight: lighter;
+    font-size: xx-large;
+    padding-bottom: 1rem;
 }
